@@ -14,7 +14,7 @@ With npm installed (comes with [node](https://nodejs.org/en/)), run the followin
 npm install
 npm run start
 ```
-
+Push to the web!
 The project will run at http://localhost:8080/
 
 ## Licenses

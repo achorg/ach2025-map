@@ -35,8 +35,8 @@ jobs:
         if: github.ref == 'refs/heads/master'
         run: |
           ls -al
-          git config --global user.email "d.negrier@thecodingmachine.com"
-          git config --global user.name "David Négrier"
+          git config --global user.email "apjanco@gmail.com"
+          git config --global user.name "apjanco"
           git checkout master
           git add .
           git commit -am "Adding files"

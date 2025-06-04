@@ -3056,7 +3056,7 @@
         {
          "columns":13,
          "firstgid":11085,
-         "image":"tilesets\/WA_Seats.png",
+         "image":"src\/assets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,

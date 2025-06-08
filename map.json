@@ -2600,9 +2600,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster T"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster T"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -2687,9 +2702,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster S"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster S"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -2774,9 +2804,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster R"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster R"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -2861,9 +2906,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster Q"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster Q"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -2948,9 +3008,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster P"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster P"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -3035,9 +3110,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster O"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster O"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -3122,9 +3212,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster N"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster N"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -3209,9 +3314,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster M"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster M"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -3296,9 +3416,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster L"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster L"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -3383,9 +3518,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster K"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster K"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -3470,9 +3620,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster J"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster J"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -3557,9 +3722,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster I"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster I"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -3644,9 +3824,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster H"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster H"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -3731,9 +3926,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster G"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster G"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -3818,9 +4028,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster F"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster F"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -3905,9 +4130,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster E"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster E"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -3992,9 +4232,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster D"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster D"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -4079,9 +4334,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster C"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster C"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -4166,9 +4436,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/simon-says-no_bkg%20-%20Winnie%20Perez%20Martinez(1).png"
+                         "value":"Poster B"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster B"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -4253,9 +4538,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/mosaic_dh24%20-%20Andrew%20Janco.jpeg"
+                         "value":"Poster A"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Poster A"
                         }],
                  "type":"tilelayer",
                  "visible":false,

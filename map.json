@@ -8427,20 +8427,36 @@
          "name":"labels_care_fair",
          "objects":[
                 {
-                 "height":44.84,
+                 "height":52.84,
                  "id":5,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
-                     "text":"Advocady Matchmaking",
+                     "text":"Advocacy Matchmaking",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":99.23,
+                 "width":113.896666666667,
                  "x":1863.98499798031,
                  "y":931.620292876065
+                }, 
+                {
+                 "height":58.1733333333333,
+                 "id":24,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Shared Governance Mechanisms",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":108.563333333333,
+                 "x":1471.98499798031,
+                 "y":799.620292876065
                 }, 
                 {
                  "height":44.84,
@@ -8513,7 +8529,7 @@
          "y":0
         }],
  "nextlayerid":119,
- "nextobjectid":24,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "properties":[
         {

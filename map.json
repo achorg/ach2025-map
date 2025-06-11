@@ -4911,7 +4911,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/creative\/12B.jpg"
+                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/creative\/12B0.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -5574,6 +5574,11 @@
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"7B"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.canva.com\/design\/DAGqAHd6Ong\/5kPIlnLU40KOukhI1PPRTQ\/view?utm_content=DAGqAHd6Ong&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h035f227726"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -8739,7 +8744,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/H.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":false,

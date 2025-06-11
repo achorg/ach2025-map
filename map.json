@@ -4157,7 +4157,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/creative\/14B.pdf.png"
+                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/creative\/14B.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":false,

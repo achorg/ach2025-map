@@ -5907,7 +5907,7 @@
                          "value":"https:\/\/nadiadileo.github.io\/Omori-Prototype\/"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0
@@ -6004,7 +6004,7 @@
                          "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/creative\/5C.pdf"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0

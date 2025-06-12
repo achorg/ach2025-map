@@ -4041,6 +4041,11 @@
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"14c"
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/creative\/14C.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -7788,7 +7793,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/Q.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":false,
@@ -9660,7 +9665,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/posters\/A.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":false,

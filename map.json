@@ -3931,7 +3931,7 @@
                          "value":"creativeR"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0
@@ -4048,7 +4048,7 @@
                          "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/creative\/14C0.pdf"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0
@@ -4165,7 +4165,7 @@
                          "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/creative\/14C.pdf"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":80,
                  "x":0,
                  "y":0

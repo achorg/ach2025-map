@@ -4604,13 +4604,13 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":80,
                  "id":104,
-                 "name":"12C-pdf",
+                 "name":"12C-mp4",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/creative\/12C.pdf"
+                         "value":"https:\/\/kaleidoscopic-stardust-b348e2.netlify.app\/src\/assets\/creative\/12C.mp4"
                         }],
                  "type":"tilelayer",
                  "visible":false,
